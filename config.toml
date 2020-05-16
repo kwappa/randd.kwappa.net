@@ -1,0 +1,27 @@
+languageCode = "ja-jp"
+title = "Kwappa研究開発室"
+
+[params]
+author = "kwappa"
+description = "randd.kwappa.net"
+avatar = "/images/kwappa_icon.jpeg"
+customCSS = ["/css/custom-style.css"]
+favicon = "/favicons/"
+
+[[params.social]]
+name = "home"
+url = "https://kwappa.net"
+[[params.social]]
+name = "github"
+url = "https://github.com/kwappa"
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/kwappa"
+[[params.social]]
+name = "facebook"
+url = "https://facebook.com/kwappa"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
