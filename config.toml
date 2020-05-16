@@ -7,6 +7,7 @@ description = "randd.kwappa.net"
 avatar = "/images/kwappa_icon.jpeg"
 customCSS = ["/css/custom-style.css"]
 favicon = "/favicons/"
+googleAnalytics = "UA-20517132-1"
 
 [[params.social]]
 name = "home"
