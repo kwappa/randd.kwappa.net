@@ -11,6 +11,9 @@ customCSS = ["/css/custom-style.css"]
 favicon = "/favicons/"
 
 [[params.social]]
+name = "list"
+url = "/"
+[[params.social]]
 name = "home"
 url = "https://kwappa.net"
 [[params.social]]
