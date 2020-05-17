@@ -1,7 +1,9 @@
 ---
 title: "WordPressのBlogをHugoとNetlifyに移行する"
 date: 2020-05-17T10:00:00+09:00
-slug: migrate-wordpress-to-hugo-and-netlify
+url: /2020/05/17/migrate-wordpress-to-hugo-and-netlify
+aliases:
+    - /posts/migrate-wordpress-to-hugo-and-netlify
 ---
 
 この「Kwappa研究開発室」は2008年に[ココログ](https://www.cocolog-nifty.com/)で書き始めたものです。2011年の正月にVPS上のWordPressに移転し、以降はずっとそこでホスティングしてきました。
