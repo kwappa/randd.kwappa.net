@@ -9,6 +9,8 @@ url: /2022/12/22/meta-engineering
 
 このスライドは、2022年12月9日に開催された「[Developers CAREER Boost](https://event.shoeisha.jp/devboost/20221209)」で公募セッションとして採択された「[メタエンジニアリングという選択肢 ～エキスパートとマネジメントのあいだでかろやかに成果を出すキャリア～](https://event.shoeisha.jp/devboost/20221209/session/4110/)」の登壇資料です。
 
+[追記] [Developers CAREER Boost 講演資料・動画まとめ](https://codezine.jp/devonline/archive/9)で、いくつかのセッションの資料とアーカイブ動画が公開されています。[このセッション](https://codezine.jp/devonline/archive/session/109)も公開されていますので、ぜひご覧ください！
+
 ## メタエンジニアリングとは
 
 さて、そもそもメタエンジニアリングとはなんでしょうか。あらためて定義してみます。
