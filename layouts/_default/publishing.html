@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<article>
+    <h1>河童書房</h1>
+
+    <img src="/images/publishing/kwappa_publishing.png" alt="河童書房" class="publishing-logo">
+    <p>
+        執筆した書籍の記録です。
+    </p>
+
+    <h2>既刊一覧</h2>
+
+    <ul class="posts-list">
+        {{ range where .Paginator.Pages "Type" "!=" "page" }}
+            <li class="posts-list-item">
+                <a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a>
+                <span class="posts-list-item-description">
+                {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+                {{ .PublishDate.Format "Jan 2, 2006" }}
+                </span>
+            </li>
+        {{ end }}
+    </ul>
+    {{ partial "pagination.html" $ }}
+</article>
+
+{{ end }}
