@@ -1,6 +1,7 @@
 ---
 title: "メタエンジニアリング 理論と実践、その未来"
-date: 2023-11-10T15:39:27+09:00
+date: 2023-11-11T00:00:00+09:00
+type: page
 ---
 {{< figure src="/images/publishing/meta-engineering.png" width="320" >}}
 
