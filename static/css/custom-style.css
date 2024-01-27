@@ -10,3 +10,10 @@ img.publishing-logo {
     width: 40%;
     border-radius: 0.2em;
 }
+
+div.photo-caption {
+    font-size: 0.6em;
+    color: silver;
+    text-align: right;
+    font-style: italic;
+}

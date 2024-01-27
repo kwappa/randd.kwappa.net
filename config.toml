@@ -1,6 +1,7 @@
 languageCode = "ja-jp"
 title = "Kwappa研究開発室"
 googleAnalytics = "UA-20517132-1"
+enableEmoji = true
 
 [params]
 author = "kwappa"
