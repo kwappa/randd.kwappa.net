@@ -2,6 +2,7 @@
 title: "YAPC::Hiroshima 2024に参加してきたよ"
 date: 2024-02-10T10:00:00+09:00
 url: /2024/02/10/yapc-hiroshima-2024
+images: ["/images/2024/0210/motoyasu_river_ogp.png"]
 ---
 
 [YAPC::Hiroshima 2024](https://yapcjapan.org/2024hiroshima/)に参加してきました。
