@@ -13,18 +13,26 @@ baseURL = "https://randd.kwappa.net/"
 avatar = "/images/kwappa_icon.jpeg"
 customCSS = ["/css/custom-style.css"]
 favicon = "/favicons/"
-myLinks = [
-    { "name" = "list", "url" = "/", "text" = "Articels" },
-    { "name" = "book", "url" = "/publishing" },
-    { "name" = "home", "url" = "https://kwappa.net"},
-]
-socialLinks = [
-    { "name" = "github", "url" = "https://github.com/kwappa" },
-    { "name" = "twitter", "url" = "https://twitter.com/kwappa" },
-    { "name" = "facebook", "url" = "https://facebook.com/kwappa" },
-]
-[[social]]
+[params.social]
     twitter = "kwappa"
+[[params.myLinks]]
+    name = "list"
+    url = "/"
+[[params.myLinks]]
+    name = "book"
+    url = "/publishing"
+[[params.myLinks]]
+    name = "home"
+    url = "https://kwappa.net"
+[[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/kwappa"
+[[params.socialLinks]]
+    name = "twitter"
+    url = "https://twitter.com/kwappa"
+[[params.socialLinks]]
+    name = "facebook"
+    url = "https://facebook.com/kwappa"
 
 [markup]
 [markup.goldmark]
