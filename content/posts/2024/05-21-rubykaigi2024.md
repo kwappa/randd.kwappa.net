@@ -41,7 +41,7 @@ RubyKaigiで開催されるたびに衝撃と爆笑が巻き起こる[TRICK](htt
 
 プレゼンの元データは[このへん](https://github.com/yujiyokoo/dreampresent-wii/tree/main/romdisk)で見ることができます。画面に表示されてたテキストは[content.txt](https://github.com/yujiyokoo/dreampresent-wii/blob/main/romdisk/content.txt)に記述されてます。このエスケープシーケンスみたいな独自の記法が含まれるテキストデータは、ゲーム開発の頃を思い出して感慨深い気持ちになりました（キャラやテキストを制御するシナリオスクリプトというものがあってな）。
 
-Day4にひとりでビールを飲んでたらその店に[その店にYokooさんが入ってくる](https://x.com/kwappa/status/1791807863838683532)というミラクルがあるのもRubyKaigiのすごいところ。一方的なファンだったのにすっかり仲よくしていただき、そのあとも何度か一緒に飲みに行く機会がありました。Yokooさん、ありがとうございました！
+Day4にひとりでビールを飲んでたらその店に[Yokooさんが入ってくる](https://x.com/kwappa/status/1791807863838683532)というミラクルがあるのもRubyKaigiのすごいところ。一方的なファンだったのにすっかり仲よくしていただき、そのあとも何度か一緒に飲みに行く機会がありました。Yokooさん、ありがとうございました！
 
 ### Namespace, What and Why / Satoshi Tagomori
 
