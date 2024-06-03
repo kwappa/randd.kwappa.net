@@ -10,7 +10,7 @@ enableEmoji = true
 author = "kwappa"
 description = "randd.kwappa.net"
 baseURL = "https://randd.kwappa.net/"
-avatar = "/images/kwappa_icon.jpeg"
+avatar = "/images/kwappa_icon_full.png"
 customCSS = ["/css/custom-style.css"]
 favicon = "/favicons/"
 [params.social]
