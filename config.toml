@@ -1,6 +1,7 @@
 languageCode = "ja-jp"
 title = "Kwappa研究開発室"
 enableEmoji = true
+baseURL = "https://randd.kwappa.net/"
 
 [services]
     [services.googleAnalytics]
@@ -9,7 +10,6 @@ enableEmoji = true
 [params]
 author = "kwappa"
 description = "randd.kwappa.net"
-baseURL = "https://randd.kwappa.net/"
 avatar = "/images/kwappa_icon_full.png"
 customCSS = ["/css/custom-style.css"]
 favicon = "/favicons/"
