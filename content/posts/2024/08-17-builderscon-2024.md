@@ -1,5 +1,5 @@
 ---
-title: "buiderscon 2024に行って懇親会でLTしてきた"
+title: "builderscon 2024に行って懇親会でLTしてきた"
 date: 2024-08-17T09:00:00+09:00
 url: /2024/08/17/builderscon-2024
 images: ["/images/2024/0817/saitama_hall_ogp.png"]
