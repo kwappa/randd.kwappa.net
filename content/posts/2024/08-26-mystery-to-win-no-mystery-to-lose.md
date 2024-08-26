@@ -1,5 +1,5 @@
 ---
-title: "「勝ちに不思議の勝ちあり、負けに不思議の負けあり」という失敗から学ぶ話をした"
+title: "「勝ちに不思議の勝ちあり、負けに不思議の負けなし」という失敗から学ぶ話をした"
 date: 2024-08-26T13:00:00+09:00
 url: /2024/08/26/there-is-a-mystery-to-win-but-there-is-no-mystery-to-lose
 images: ["/images/2024/0826/slide-ogp.png"]
