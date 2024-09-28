@@ -73,8 +73,8 @@ images: ["/images/2024/0928/slide-ogp.png"]
   - https://www.nichibun-g.co.jp/textbooks/joho/
 - [情報 | 令和7年度用高等学校教科書・シラバス | 東京書籍](https://ten.tokyo-shoseki.co.jp/text/hs/joho/)
   - https://ten.tokyo-shoseki.co.jp/text/hs/joho/
-- [「情報 I・II」を学んだ高校生の技術レベルってどのくらい？　元エンジニア校長にホントのところを聞きました【フォーカス】 レバテックラボ（レバテックLAB）](https://Levtech.Jp/Media/Article/Focus/Detail_439/)
-  - https://Levtech.Jp/Media/Article/Focus/Detail_439/
+- [「情報 I・II」を学んだ高校生の技術レベルってどのくらい？　元エンジニア校長にホントのところを聞きました【フォーカス】 レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_439/)
+  - https://levtech.jp/media/article/focus/detail_439/
 - [【25卒生の就活】業界選び／企業選びの軸や重視するポイント・基準とは？ 「やりがい」や「社風」のほか、キャリア重視の傾向も人事のプロを支援するHRプロ](https://www.hrpro.co.jp/trend_news.php?news_no=3327)
   - https://www.hrpro.co.jp/trend_news.php?news_no=3327
 - [Fluid vs. Crystallized Intelligence － YouTube](https://youtu.be/T7Wr7wVK5Wo)
