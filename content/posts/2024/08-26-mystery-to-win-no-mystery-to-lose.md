@@ -37,7 +37,6 @@ Speaker DeckはPDFのリンクをクリックできないのでリンク集で�
 - [Xユーザーのうすなみ あいさん: 「#srenext #あなたの過去イチの障害は？ #オープンロジ みなさん、記載ありがとうございます！ 障害に対する想いが溢れんばかり https://t.co/jbNkNSDS7F」 / X](https://x.com/7naaaaami3/status/1819639629265748121)
 - [本番環境などでやらかしちゃった人のカレンダー | Advent Calendar 2023 - Qiita](https://qiita.com/advent-calendar/2023/yarakashi)
 - [本番環境でやらかしちゃった人のカレンダー | Advent Calendar 2022 - Qiita](https://qiita.com/advent-calendar/2022/yarakashi-production)
-
 - [ソフトウェア開発現場の「失敗」集めてみた。 42の失敗事例で学ぶチーム開発のうまい進めかた](https://amzn.to/4clMn6s)
 - [ポストモーテム みずほ銀行システム障害 事後検証報告](https://amzn.to/3M5sBS0)
 - [みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」](https://amzn.to/46UvNcU)
