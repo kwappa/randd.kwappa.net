@@ -2,6 +2,7 @@
 title: "技術広報のこころ"
 date: 2024-10-27T09:00:00+09:00
 type: page
+images: ["/images/publishing/book_tech_pr_ogp.png"]
 ---
 {{< figure src="/images/publishing/book_tech_pr_cover_c1.jpg" width="320" >}}
 
